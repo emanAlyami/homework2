@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">baseball</string>
+    <string name="increse">+</string>
+    <string name="fouel">fouel</string>
+    <string name="foulezero">0</string>
+    <string name="scorebzero">0</string>
+    <string name="team_b">Team B</string>
+    <string name="fouelbutton">fouel</string>
+    <string name="increasebutton">+</string>
+    <string name="fouelzero">0</string>
+    <string name="scorezero">0</string>
+    <string name="team_a">Team A</string>
+    <string name="reset">Reset</string>
+</resources>
